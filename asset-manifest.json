@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/You-Are-My-Special/static/css/main.4b649d9b.css",
-    "main.js": "/You-Are-My-Special/static/js/main.ceb607ea.js",
+    "main.js": "/You-Are-My-Special/static/js/main.676cca7c.js",
     "static/js/787.738e1675.chunk.js": "/You-Are-My-Special/static/js/787.738e1675.chunk.js",
     "static/media/paparatsi.jpg": "/You-Are-My-Special/static/media/paparatsi.0928378c22ca5ce92e65.jpg",
     "static/media/ourLoveTrikala.png": "/You-Are-My-Special/static/media/ourLoveTrikala.66190cf15abf8db5884b.png",
@@ -13,11 +13,11 @@
     "static/media/blueJoanna.jpg": "/You-Are-My-Special/static/media/blueJoanna.30404bdb4fd0780886bd.jpg",
     "index.html": "/You-Are-My-Special/index.html",
     "main.4b649d9b.css.map": "/You-Are-My-Special/static/css/main.4b649d9b.css.map",
-    "main.ceb607ea.js.map": "/You-Are-My-Special/static/js/main.ceb607ea.js.map",
+    "main.676cca7c.js.map": "/You-Are-My-Special/static/js/main.676cca7c.js.map",
     "787.738e1675.chunk.js.map": "/You-Are-My-Special/static/js/787.738e1675.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b649d9b.css",
-    "static/js/main.ceb607ea.js"
+    "static/js/main.676cca7c.js"
   ]
 }
