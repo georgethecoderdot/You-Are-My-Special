@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/You-Are-My-Special/static/css/main.4b649d9b.css",
-    "main.js": "/You-Are-My-Special/static/js/main.676cca7c.js",
+    "main.css": "/You-Are-My-Special/static/css/main.3bc48060.css",
+    "main.js": "/You-Are-My-Special/static/js/main.1555e6a0.js",
     "static/js/787.738e1675.chunk.js": "/You-Are-My-Special/static/js/787.738e1675.chunk.js",
     "static/media/paparatsi.jpg": "/You-Are-My-Special/static/media/paparatsi.0928378c22ca5ce92e65.jpg",
     "static/media/ourLoveTrikala.png": "/You-Are-My-Special/static/media/ourLoveTrikala.66190cf15abf8db5884b.png",
@@ -12,12 +12,12 @@
     "static/media/myLove.jpg": "/You-Are-My-Special/static/media/myLove.4dc2fd67ac57f061f841.jpg",
     "static/media/blueJoanna.jpg": "/You-Are-My-Special/static/media/blueJoanna.30404bdb4fd0780886bd.jpg",
     "index.html": "/You-Are-My-Special/index.html",
-    "main.4b649d9b.css.map": "/You-Are-My-Special/static/css/main.4b649d9b.css.map",
-    "main.676cca7c.js.map": "/You-Are-My-Special/static/js/main.676cca7c.js.map",
+    "main.3bc48060.css.map": "/You-Are-My-Special/static/css/main.3bc48060.css.map",
+    "main.1555e6a0.js.map": "/You-Are-My-Special/static/js/main.1555e6a0.js.map",
     "787.738e1675.chunk.js.map": "/You-Are-My-Special/static/js/787.738e1675.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b649d9b.css",
-    "static/js/main.676cca7c.js"
+    "static/css/main.3bc48060.css",
+    "static/js/main.1555e6a0.js"
   ]
 }
