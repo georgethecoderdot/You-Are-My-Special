@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/You-Are-My-Special/static/css/main.d30697de.css",
-    "main.js": "/You-Are-My-Special/static/js/main.74009aca.js",
+    "main.css": "/You-Are-My-Special/static/css/main.4b649d9b.css",
+    "main.js": "/You-Are-My-Special/static/js/main.e2fc7696.js",
     "static/js/787.738e1675.chunk.js": "/You-Are-My-Special/static/js/787.738e1675.chunk.js",
     "static/media/ourLoveTrikala.png": "/You-Are-My-Special/static/media/ourLoveTrikala.66190cf15abf8db5884b.png",
     "static/media/nap.jpg": "/You-Are-My-Special/static/media/nap.57b3341dc20339c1ae00.jpg",
@@ -9,12 +9,12 @@
     "static/media/myLove.jpg": "/You-Are-My-Special/static/media/myLove.4dc2fd67ac57f061f841.jpg",
     "static/media/blueJoanna.jpg": "/You-Are-My-Special/static/media/blueJoanna.30404bdb4fd0780886bd.jpg",
     "index.html": "/You-Are-My-Special/index.html",
-    "main.d30697de.css.map": "/You-Are-My-Special/static/css/main.d30697de.css.map",
-    "main.74009aca.js.map": "/You-Are-My-Special/static/js/main.74009aca.js.map",
+    "main.4b649d9b.css.map": "/You-Are-My-Special/static/css/main.4b649d9b.css.map",
+    "main.e2fc7696.js.map": "/You-Are-My-Special/static/js/main.e2fc7696.js.map",
     "787.738e1675.chunk.js.map": "/You-Are-My-Special/static/js/787.738e1675.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d30697de.css",
-    "static/js/main.74009aca.js"
+    "static/css/main.4b649d9b.css",
+    "static/js/main.e2fc7696.js"
   ]
 }
