@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/You-Are-My-Special/static/css/main.39c31eda.css",
-    "main.js": "/You-Are-My-Special/static/js/main.92532e18.js",
+    "main.js": "/You-Are-My-Special/static/js/main.12e7bc76.js",
     "static/js/787.738e1675.chunk.js": "/You-Are-My-Special/static/js/787.738e1675.chunk.js",
+    "static/media/uni.jpg": "/You-Are-My-Special/static/media/uni.543f8d6b417bdea2ef13.jpg",
+    "static/media/that's_my_girl.jpg": "/You-Are-My-Special/static/media/that's_my_girl.74387e5f19688dde41b1.jpg",
+    "static/media/Christmas_Kastoria.jpg": "/You-Are-My-Special/static/media/Christmas_Kastoria.bd70db5c416040af16c0.jpg",
     "static/media/Joanna_Paros.jpg": "/You-Are-My-Special/static/media/Joanna_Paros.3655356ca66ee19c4d39.jpg",
     "static/media/paparatsi.jpg": "/You-Are-My-Special/static/media/paparatsi.0928378c22ca5ce92e65.jpg",
     "static/media/Naousa.jpg": "/You-Are-My-Special/static/media/Naousa.a62b179e415380fbcf7b.jpg",
     "static/media/photo_Naousa.jpg": "/You-Are-My-Special/static/media/photo_Naousa.4a82dfd785535e3c9b19.jpg",
+    "static/media/Christmas.jpg": "/You-Are-My-Special/static/media/Christmas.dcfebb6e26aa4a765543.jpg",
     "static/media/Paros-Naousa.jpg": "/You-Are-My-Special/static/media/Paros-Naousa.4e00d29ca6f246fa8364.jpg",
     "static/media/ourLoveTrikala.png": "/You-Are-My-Special/static/media/ourLoveTrikala.66190cf15abf8db5884b.png",
     "static/media/punda_coast.jpg": "/You-Are-My-Special/static/media/punda_coast.f4879e5c280871f105e1.jpg",
@@ -15,17 +19,21 @@
     "static/media/funny.jpg": "/You-Are-My-Special/static/media/funny.d9a315255470866e914a.jpg",
     "static/media/paros.jpg": "/You-Are-My-Special/static/media/paros.52d3795b5d7b04300999.jpg",
     "static/media/food_parikoia.jpg": "/You-Are-My-Special/static/media/food_parikoia.835a2510a4cd89699fea.jpg",
+    "static/media/tritsi.jpg": "/You-Are-My-Special/static/media/tritsi.587ca9d43963e8f7417d.jpg",
     "static/media/nap.jpg": "/You-Are-My-Special/static/media/nap.57b3341dc20339c1ae00.jpg",
     "static/media/mask.jpg": "/You-Are-My-Special/static/media/mask.34eb87a368034e583c4e.jpg",
     "static/media/myLove.jpg": "/You-Are-My-Special/static/media/myLove.4dc2fd67ac57f061f841.jpg",
+    "static/media/giann.jpg": "/You-Are-My-Special/static/media/giann.b11bf165768d16943d58.jpg",
+    "static/media/hello.jpg": "/You-Are-My-Special/static/media/hello.47c458c610d7614630ff.jpg",
+    "static/media/models.jpg": "/You-Are-My-Special/static/media/models.4c2d4c23418038257392.jpg",
     "static/media/blueJoanna.jpg": "/You-Are-My-Special/static/media/blueJoanna.30404bdb4fd0780886bd.jpg",
     "index.html": "/You-Are-My-Special/index.html",
     "main.39c31eda.css.map": "/You-Are-My-Special/static/css/main.39c31eda.css.map",
-    "main.92532e18.js.map": "/You-Are-My-Special/static/js/main.92532e18.js.map",
+    "main.12e7bc76.js.map": "/You-Are-My-Special/static/js/main.12e7bc76.js.map",
     "787.738e1675.chunk.js.map": "/You-Are-My-Special/static/js/787.738e1675.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39c31eda.css",
-    "static/js/main.92532e18.js"
+    "static/js/main.12e7bc76.js"
   ]
 }
