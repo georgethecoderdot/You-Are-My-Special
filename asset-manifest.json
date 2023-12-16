@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/You-Are-My-Special/static/css/main.39c31eda.css",
-    "main.js": "/You-Are-My-Special/static/js/main.5be5a082.js",
+    "main.js": "/You-Are-My-Special/static/js/main.27d76f93.js",
     "static/js/787.738e1675.chunk.js": "/You-Are-My-Special/static/js/787.738e1675.chunk.js",
     "static/media/Joanna_Paros.jpg": "/You-Are-My-Special/static/media/Joanna_Paros.3655356ca66ee19c4d39.jpg",
     "static/media/paparatsi.jpg": "/You-Are-My-Special/static/media/paparatsi.0928378c22ca5ce92e65.jpg",
@@ -9,20 +9,23 @@
     "static/media/photo_Naousa.jpg": "/You-Are-My-Special/static/media/photo_Naousa.4a82dfd785535e3c9b19.jpg",
     "static/media/Paros-Naousa.jpg": "/You-Are-My-Special/static/media/Paros-Naousa.4e00d29ca6f246fa8364.jpg",
     "static/media/ourLoveTrikala.png": "/You-Are-My-Special/static/media/ourLoveTrikala.66190cf15abf8db5884b.png",
+    "static/media/punda_coast.jpg": "/You-Are-My-Special/static/media/punda_coast.f4879e5c280871f105e1.jpg",
+    "static/media/Sun.jpg": "/You-Are-My-Special/static/media/Sun.52a6cc7f6e76720acb6c.jpg",
     "static/media/hug.jpg": "/You-Are-My-Special/static/media/hug.e3fb4a6b1b210b96d748.jpg",
     "static/media/funny.jpg": "/You-Are-My-Special/static/media/funny.d9a315255470866e914a.jpg",
     "static/media/paros.jpg": "/You-Are-My-Special/static/media/paros.52d3795b5d7b04300999.jpg",
+    "static/media/food_parikoia.jpg": "/You-Are-My-Special/static/media/food_parikoia.835a2510a4cd89699fea.jpg",
     "static/media/nap.jpg": "/You-Are-My-Special/static/media/nap.57b3341dc20339c1ae00.jpg",
     "static/media/mask.jpg": "/You-Are-My-Special/static/media/mask.34eb87a368034e583c4e.jpg",
     "static/media/myLove.jpg": "/You-Are-My-Special/static/media/myLove.4dc2fd67ac57f061f841.jpg",
     "static/media/blueJoanna.jpg": "/You-Are-My-Special/static/media/blueJoanna.30404bdb4fd0780886bd.jpg",
     "index.html": "/You-Are-My-Special/index.html",
     "main.39c31eda.css.map": "/You-Are-My-Special/static/css/main.39c31eda.css.map",
-    "main.5be5a082.js.map": "/You-Are-My-Special/static/js/main.5be5a082.js.map",
+    "main.27d76f93.js.map": "/You-Are-My-Special/static/js/main.27d76f93.js.map",
     "787.738e1675.chunk.js.map": "/You-Are-My-Special/static/js/787.738e1675.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39c31eda.css",
-    "static/js/main.5be5a082.js"
+    "static/js/main.27d76f93.js"
   ]
 }
