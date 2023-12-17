@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/You-Are-My-Special/static/css/main.39c31eda.css",
-    "main.js": "/You-Are-My-Special/static/js/main.285ddbc5.js",
+    "main.css": "/You-Are-My-Special/static/css/main.f4531a84.css",
+    "main.js": "/You-Are-My-Special/static/js/main.9206377a.js",
     "static/js/787.738e1675.chunk.js": "/You-Are-My-Special/static/js/787.738e1675.chunk.js",
     "static/media/uni.jpg": "/You-Are-My-Special/static/media/uni.543f8d6b417bdea2ef13.jpg",
     "static/media/that's_my_girl.jpg": "/You-Are-My-Special/static/media/that's_my_girl.74387e5f19688dde41b1.jpg",
@@ -18,24 +18,31 @@
     "static/media/Sun.jpg": "/You-Are-My-Special/static/media/Sun.52a6cc7f6e76720acb6c.jpg",
     "static/media/hug.jpg": "/You-Are-My-Special/static/media/hug.e3fb4a6b1b210b96d748.jpg",
     "static/media/funny.jpg": "/You-Are-My-Special/static/media/funny.d9a315255470866e914a.jpg",
+    "static/media/business_kastoria.jpg": "/You-Are-My-Special/static/media/business_kastoria.f7131c4f507af84f0760.jpg",
     "static/media/paros.jpg": "/You-Are-My-Special/static/media/paros.52d3795b5d7b04300999.jpg",
+    "static/media/Hello_bou.jpg": "/You-Are-My-Special/static/media/Hello_bou.e8210e8e58cb9ee28aa4.jpg",
     "static/media/niarxos.jpg": "/You-Are-My-Special/static/media/niarxos.31710b03f95d61e3eee6.jpg",
     "static/media/food_parikoia.jpg": "/You-Are-My-Special/static/media/food_parikoia.835a2510a4cd89699fea.jpg",
     "static/media/tritsi.jpg": "/You-Are-My-Special/static/media/tritsi.587ca9d43963e8f7417d.jpg",
     "static/media/nap.jpg": "/You-Are-My-Special/static/media/nap.57b3341dc20339c1ae00.jpg",
+    "static/media/KastoriaDate.jpg": "/You-Are-My-Special/static/media/KastoriaDate.16af5be3eeb711526919.jpg",
+    "static/media/maskagain.jpg": "/You-Are-My-Special/static/media/maskagain.8799c5f8caecebd52451.jpg",
     "static/media/mask.jpg": "/You-Are-My-Special/static/media/mask.34eb87a368034e583c4e.jpg",
     "static/media/myLove.jpg": "/You-Are-My-Special/static/media/myLove.4dc2fd67ac57f061f841.jpg",
+    "static/media/gkazi.jpg": "/You-Are-My-Special/static/media/gkazi.1b721ad26f1159ff7f7a.jpg",
     "static/media/giann.jpg": "/You-Are-My-Special/static/media/giann.b11bf165768d16943d58.jpg",
     "static/media/hello.jpg": "/You-Are-My-Special/static/media/hello.47c458c610d7614630ff.jpg",
     "static/media/models.jpg": "/You-Are-My-Special/static/media/models.4c2d4c23418038257392.jpg",
+    "static/media/mygirl.jpg": "/You-Are-My-Special/static/media/mygirl.0656ffd5be9106f0f34e.jpg",
+    "static/media/super.jpg": "/You-Are-My-Special/static/media/super.7978dab28947c7ac9b1d.jpg",
     "static/media/blueJoanna.jpg": "/You-Are-My-Special/static/media/blueJoanna.30404bdb4fd0780886bd.jpg",
     "index.html": "/You-Are-My-Special/index.html",
-    "main.39c31eda.css.map": "/You-Are-My-Special/static/css/main.39c31eda.css.map",
-    "main.285ddbc5.js.map": "/You-Are-My-Special/static/js/main.285ddbc5.js.map",
+    "main.f4531a84.css.map": "/You-Are-My-Special/static/css/main.f4531a84.css.map",
+    "main.9206377a.js.map": "/You-Are-My-Special/static/js/main.9206377a.js.map",
     "787.738e1675.chunk.js.map": "/You-Are-My-Special/static/js/787.738e1675.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39c31eda.css",
-    "static/js/main.285ddbc5.js"
+    "static/css/main.f4531a84.css",
+    "static/js/main.9206377a.js"
   ]
 }
