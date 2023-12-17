@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/You-Are-My-Special/static/css/main.f4531a84.css",
-    "main.js": "/You-Are-My-Special/static/js/main.9206377a.js",
+    "main.css": "/You-Are-My-Special/static/css/main.3973eb6f.css",
+    "main.js": "/You-Are-My-Special/static/js/main.b24926be.js",
     "static/js/787.738e1675.chunk.js": "/You-Are-My-Special/static/js/787.738e1675.chunk.js",
     "static/media/uni.jpg": "/You-Are-My-Special/static/media/uni.543f8d6b417bdea2ef13.jpg",
     "static/media/that's_my_girl.jpg": "/You-Are-My-Special/static/media/that's_my_girl.74387e5f19688dde41b1.jpg",
@@ -29,7 +29,6 @@
     "static/media/maskagain.jpg": "/You-Are-My-Special/static/media/maskagain.8799c5f8caecebd52451.jpg",
     "static/media/mask.jpg": "/You-Are-My-Special/static/media/mask.34eb87a368034e583c4e.jpg",
     "static/media/myLove.jpg": "/You-Are-My-Special/static/media/myLove.4dc2fd67ac57f061f841.jpg",
-    "static/media/gkazi.jpg": "/You-Are-My-Special/static/media/gkazi.1b721ad26f1159ff7f7a.jpg",
     "static/media/giann.jpg": "/You-Are-My-Special/static/media/giann.b11bf165768d16943d58.jpg",
     "static/media/hello.jpg": "/You-Are-My-Special/static/media/hello.47c458c610d7614630ff.jpg",
     "static/media/models.jpg": "/You-Are-My-Special/static/media/models.4c2d4c23418038257392.jpg",
@@ -37,12 +36,12 @@
     "static/media/super.jpg": "/You-Are-My-Special/static/media/super.7978dab28947c7ac9b1d.jpg",
     "static/media/blueJoanna.jpg": "/You-Are-My-Special/static/media/blueJoanna.30404bdb4fd0780886bd.jpg",
     "index.html": "/You-Are-My-Special/index.html",
-    "main.f4531a84.css.map": "/You-Are-My-Special/static/css/main.f4531a84.css.map",
-    "main.9206377a.js.map": "/You-Are-My-Special/static/js/main.9206377a.js.map",
+    "main.3973eb6f.css.map": "/You-Are-My-Special/static/css/main.3973eb6f.css.map",
+    "main.b24926be.js.map": "/You-Are-My-Special/static/js/main.b24926be.js.map",
     "787.738e1675.chunk.js.map": "/You-Are-My-Special/static/js/787.738e1675.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4531a84.css",
-    "static/js/main.9206377a.js"
+    "static/css/main.3973eb6f.css",
+    "static/js/main.b24926be.js"
   ]
 }
